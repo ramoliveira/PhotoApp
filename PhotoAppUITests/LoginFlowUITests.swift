@@ -1,13 +1,13 @@
 //
-//  PhotoAppUITests.swift
+//  LoginFlowUITests.swift
 //  PhotoAppUITests
 //
-//  Created by Ramón Dias de Oliveira Almeida on 28/03/23.
+//  Created by Ramón Dias de Oliveira Almeida on 03/04/23.
 //
 
 import XCTest
 
-final class PhotoAppUITests: XCTestCase {
+final class LoginFlowUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
